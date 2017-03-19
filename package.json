@@ -1,6 +1,6 @@
 {
   "name": "modern-csrf",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Primary logic behind csrf tokens with modern javascript",
   "main": "Csrf.js",
   "repository": {
